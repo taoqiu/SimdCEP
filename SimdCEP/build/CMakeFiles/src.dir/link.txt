@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -O3 -mavx512f -mavx512cd   CMakeFiles/src.dir/bitParellMatch.cpp.o CMakeFiles/src.dir/bitSequence.cpp.o CMakeFiles/src.dir/fileio.cpp.o CMakeFiles/src.dir/global.cpp.o CMakeFiles/src.dir/Match.cpp.o CMakeFiles/src.dir/parseData.cpp.o CMakeFiles/src.dir/parseQuery.cpp.o CMakeFiles/src.dir/parseResult.cpp.o  -o src 

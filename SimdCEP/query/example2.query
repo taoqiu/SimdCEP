@@ -1,0 +1,5 @@
+PATTERN SEQ(G a, B b, !E c, A d)
+WHERE skip-till-any-match
+AND b.attr1 < 605
+WITHIN 30
+--------------------
