@@ -21,6 +21,9 @@ Operating environment requirements:
 Operating steps:
 We have provided a run.sh file to assist you in quickly running it. Before using it, you need to modify the paths in this file.
 Enter in the command line:
+
 sed -i 's/\r$//' run.sh  (If it is the first time to run)
+
 chmod +x run.sh (Grant permissions)
+
 ./run.sh (run)
