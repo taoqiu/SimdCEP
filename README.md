@@ -11,7 +11,7 @@ The fourth line is the size of the time slice, with a default unit of seconds. I
 The last line is the relative address for saving detailed matching results.
 
 Explanation:
-This version is a C++ code based on the Linux system, used to implement the complex event matching function based on 512-bit SIMD functions, and is built using the CMake system.
+This version is a C++ code based on the Linux system, used to implement the complex event matching function based on 512-bit SIMD functions, and is built using the CMake.
 
 Operating environment requirements:
 1.It needs to be run in a Linux environment.
